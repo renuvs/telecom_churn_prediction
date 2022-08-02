@@ -1,5 +1,5 @@
 streamlit
 numpy==1.21.4
 xgboost
-pip==21.3.1
+pip
 requests==2.26.0
