@@ -8,6 +8,8 @@ Created on Wed Jul 27 17:48:17 2022
 import numpy as np
 import pickle
 import streamlit as st
+import xgboost
+from xgboost import XGBClassifier
 
 
 #loading the model
