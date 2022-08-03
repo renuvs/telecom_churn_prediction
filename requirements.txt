@@ -1,3 +1,5 @@
 streamlit
 numpy==1.21.4
 xgboost
+sklearn
+scikit-learn
